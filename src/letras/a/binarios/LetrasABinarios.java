@@ -8,6 +8,7 @@ package letras.a.binarios;
 /**
  *
  * @author Julian Martinez
+ * @author Esteban Chacón 
  */
 
 import java.util.ArrayList;
